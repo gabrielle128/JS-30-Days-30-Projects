@@ -1,0 +1,1 @@
+**For single element: use id instead of class in html**
