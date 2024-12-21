@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #0080ff;
+    background-color: #d3a376;
 }
 
 form{
@@ -41,11 +41,11 @@ input,button{
 input{
     background-color: #e2e2e2;
     color: #ff3434;
-    border: 1px solid darkblue;
+    border: 1px solid #3e2522;
 }
 
 button{
-    background-color: #0080ff;
+    background-color: #d3a376;
     margin-top: 2.5em;
     cursor: pointer;
 }
