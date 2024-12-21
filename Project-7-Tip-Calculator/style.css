@@ -7,11 +7,11 @@
 }
 
 body{
-    background-color: darkturquoise;
+    background-color: #d4d8dd;
 }
 
 .container{
-    background: linear-gradient(135deg, #ff6a88, #ff9566);
+    background: linear-gradient(135deg, #2e4156, #8b9797);
     width: 450px;
     padding: 50px 40px;
     border-radius: 10px;
@@ -62,7 +62,7 @@ h1{
 
 .input-box{
     background-color: #fff;
-    color: #ff6a88;
+    color: #2e4156;
     padding: 5px;
     transition: background-color 0.3s, color 0.3s ease;
 }
@@ -73,7 +73,7 @@ h1{
     outline: none;
     width: 100px;
     text-align: right;
-    color: #ff6a88;
+    color: #2e4156;
     transition: color 0.3s ease;
 }
 
@@ -98,7 +98,7 @@ input[type="range"]::-webkit-slider-thumb{
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: #58d68d;
+    background-color: #d4d8dd;
     transition: background-color 0.3s ease;
 }
 
@@ -128,6 +128,6 @@ section:last-child{
 
 section:last-child .val,
 section:last-child .lbl{
-    color: #ff6a88;
+    color: #2e4156;
     transition: color 0.3s ease;
 }
