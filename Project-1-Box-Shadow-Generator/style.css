@@ -1,5 +1,5 @@
 body{
-    background-color: #2288ff;
+    background-color: #aab7b7;
     color: #fff;
     font-family: sans-serif;
     margin: 0;
@@ -48,15 +48,16 @@ input[type="range"]{
 textarea{
     resize: none;
     padding: 5px;
-    border: 1px solid #0fdd2e;
+    border: 1px solid #c0c8ca;
     border-radius: 5px;
 }
 
 .code-wrapper button{
-    background-color: #2288ff;
+    background-color: #aab7b7;
     border: none;
     border-radius: 5px;
-    color: #fff;
+    color: #000;
+    font-weight: bolder;
     cursor: pointer;
     padding: 10px;
 }
