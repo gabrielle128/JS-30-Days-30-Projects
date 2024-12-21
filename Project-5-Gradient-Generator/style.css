@@ -9,7 +9,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(135deg, #ff69b4, #4a6ee0);
+    background: linear-gradient(135deg, #d6aa9f, #987185);
 }
 
 .container{
@@ -78,13 +78,13 @@ input[type="color"]::-webkit-color-swatch{
 
 .buttons .active{
     border: none;
-    background-color: black;
+    background-color: #423736;
     color: #ffffff;
 }
 
 #generate{
     display: block;
-    background-color: black;
+    background-color: #423736;
     color: #ffffff;
     font-size: 16px;
     padding: 12px 70px;
@@ -94,8 +94,8 @@ input[type="color"]::-webkit-color-swatch{
 }
 
 #generate:hover{
-    background-color: #555;
-    color: wheat;
+    background-color: #e9d5b7;
+    color: #423736;
 }
 
 .output{
@@ -112,7 +112,7 @@ input[type="color"]::-webkit-color-swatch{
 
 #copy{
     font-size: 14px;
-    background-color: black;
+    background-color: #423736;
     color: #ffffff;
     position: relative;
     left: 85%;
