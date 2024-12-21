@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background: linear-gradient(to right, darkcyan, darkgoldenrod);
+    background: linear-gradient(to right, #6b9071, #375534);
     color: white;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ input[type="number"], input[type="range"]{
 }
 
 input[type="number"]{
-    background: linear-gradient(to right, skyblue, aqua);
+    background: linear-gradient(to right, #aec3b0, #e3eed4);
     border-radius: 7px;
     outline: 1px solid white;
     border: none;
@@ -66,7 +66,7 @@ input[type="range"]{
 }
 
 button{
-    background-color: aqua;
+    background-color: #e3eed4;
     border: none;
     color: black;
     font-weight: bold;
@@ -78,7 +78,7 @@ button{
 }
 
 button:hover{
-    background-color: blue;
+    background-color: #0f2a1d;
     color: white;
     font-weight: bold;
 }
